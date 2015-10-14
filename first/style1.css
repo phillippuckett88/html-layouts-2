@@ -1,0 +1,85 @@
+html,body {
+    height: 1500px;
+    width: 1000px;
+    padding: 2.5% 2.5%;
+  }
+* {
+    outline: 1px solid red;
+    
+}
+.TopRed {
+    background-color: #AE1F27;
+    height: 15%;
+    width: 30%;
+    float:left;
+    margin-right: 2.5%;
+    object-position: top; 
+}
+.TopBlue {
+    background-color: #4A7FD2;
+    height: 15%;
+    width: 30%;
+    float:left;
+    margin: 0% 2.5%;
+    object-position: top; 
+}
+.TopBlack {
+    background-color: #393939;
+    height: 15%;
+    width: 30%;
+    float:left;
+    margin-left: 2.5%;
+    object-position: top;
+}
+.TextOne {
+    font-size: 30px;
+    padding: 2.5%;
+    margin-top: 25%;
+}
+.TextTwo {
+    font-size: 30px;
+    padding: 2.5%;
+    margin-bottom: 10%;
+}
+.MidRed {
+    background-color: #AE1F27;
+    height: 30%;
+    width: 35%;
+    float: left;
+    margin-bottom: 5%;    
+}
+.MidBlue {
+    background-color: #4A7FD2;
+    height: 30%;
+    width: 65%;
+    float: left;
+    margin-bottom: 5%;    
+}
+.BottomBlue {
+    background-color: #4A7FD2;
+    height: 15%;
+    width: 60%;
+    float:left;
+    object-position: bottom;
+}
+.BottomRed1 {
+    background-color: #AE1F27;
+    height: 15%;
+    width: 5%;
+    float:left;
+    object-position: bottom;
+}
+.BottomBlack {
+    background-color: #393939;
+    height: 15%;
+    width: 30%;
+    float:left;
+    object-position: bottom;
+}
+.BottomRed2 {
+    background-color: #AE1F27;
+    height: 15%;
+    width: 5%;
+    float:left;
+    object-position: bottom;
+}

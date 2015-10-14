@@ -3,10 +3,6 @@ html,body {
     width: 1000px;
     padding: 2.5% 2.5%;
   }
-* {
-    outline: 1px solid red;
-    
-}
 .TopRed {
     background-color: #AE1F27;
     height: 15%;
